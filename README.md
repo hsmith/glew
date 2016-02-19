@@ -47,6 +47,9 @@ RedHat/CentOS/Fedora:  `$ sudo yum install libXmu-devel libXi-devel libGL-devel 
 
 ##### Build
 
+  $ cd auto
+  $ make
+  $ cd ..
 	$ make
 	$ sudo make install
 	$ make clean
